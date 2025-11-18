@@ -1,0 +1,5 @@
+{
+  "name": "Lumina Reader",
+  "description": "An AI-powered reading companion that helps you discover books and news using Google Search, manage your library, and annotate content with ease.",
+  "requestFramePermissions": []
+}
